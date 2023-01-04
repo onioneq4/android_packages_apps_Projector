@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projector</string>
+    <string name="enable">Enable</string>
+    <string name="sharpness">Sharpness</string>
+    <string name="orientation">Orientation</string>
+    <string name="brightness">Brightness</string>
+</resources>
