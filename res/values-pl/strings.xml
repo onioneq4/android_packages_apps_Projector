@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projektor</string>
+    <string name="enable">Włącz</string>
+    <string name="focus">Ostrość</string>
+    <string name="brightness">Jasność</string>
+    <string name="vertical">Pionowo</string>
+    <string name="horizontal">Poziomo</string>
+    <string name="show_touches">Pokaż dotknięcia</string>
+    <string name="hide_touches">Ukryj dotknięcia</string>
+    <string name="dim_the_screen">Przyciemnij ekran</string>
+    <string name="patterns">Wzory</string>
+    <string name="high">Wysoka</string>
+    <string name="medium">Średnia</string>
+    <string name="low">Niska</string>
+    <string name="checker">Szachownica</string>
+    <string name="white">Biały</string>
+    <string name="black">Czarny</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
+    <string name="stripes">Paski</string>
+</resources>

@@ -1,7 +1,22 @@
 <resources>
     <string name="app_name">Projector</string>
     <string name="enable">Enable</string>
-    <string name="sharpness">Sharpness</string>
-    <string name="orientation">Orientation</string>
+    <string name="focus">Focus</string>
     <string name="brightness">Brightness</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="show_touches">Show touches</string>
+    <string name="hide_touches">Hide touches</string>
+    <string name="dim_the_screen">Dim the screen</string>
+    <string name="patterns">Patterns</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="checker">Checker</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="stripes">Stripes</string>
 </resources>
